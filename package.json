@@ -1,0 +1,8 @@
+{
+  "name": "trabalho-dijkstra",
+  "private": true,
+  "scripts": {
+    "benchmark": "npm run benchmark --prefix javascript",
+    "benchmark:quick": "npm run benchmark:quick --prefix javascript"
+  }
+}
