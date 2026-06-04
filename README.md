@@ -24,6 +24,10 @@ npm run benchmark
 # 2. Análise, gráficos e texto do relatório
 pip3 install -r requirements.txt
 jupyter notebook notebooks/analise_dijkstra.ipynb
+
+# 3. Relatório PDF completo (A4, ABNT) com todos os gráficos explicados
+python3 notebooks/gerar_relatorio_abnt.py
+# Saída: data/relatorio_dijkstra_abnt.pdf
 ```
 
 Teste rápido dos benchmarks: `python3 python/benchmark.py --quick` e `npm run benchmark:quick`.

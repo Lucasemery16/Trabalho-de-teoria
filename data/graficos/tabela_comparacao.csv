@@ -1,0 +1,16 @@
+Caso,Tamanho,n,Arestas,Python (ms),JavaScript (ms)
+medio,pequeno,300,1651,—,0.093 ± 0.025
+medio,pequeno,300,1706,0.247 ± 0.014,—
+medio,medio,1500,10933,1.848 ± 0.077,—
+medio,medio,1500,11073,—,0.869 ± 0.347
+medio,grande,4000,32834,6.989 ± 0.333,—
+medio,grande,4000,33318,—,3.631 ± 3.376
+melhor,pequeno,300,149,0.087 ± 0.003,—
+melhor,pequeno,300,299,—,0.138 ± 0.144
+melhor,medio,1500,749,0.486 ± 0.059,—
+melhor,medio,1500,1499,—,0.272 ± 0.087
+melhor,grande,4000,1999,1.419 ± 0.059,—
+melhor,grande,4000,3999,—,0.779 ± 0.218
+pior,pequeno,300,44850,3.171 ± 0.363,0.988 ± 0.234
+pior,medio,1500,1124250,181.487 ± 1.892,30.572 ± 8.539
+pior,grande,4000,7998000,1725.937 ± 581.875,171.348 ± 46.340
